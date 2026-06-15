@@ -6,7 +6,7 @@ void setup() {
 void loop() {
     while (1) {
         digitalWrite(PIN_LED1, HIGH);
-        delay(500);
+        delay(700);
         digitalWrite(PIN_LED1, LOW);
         delay(1000);
     }
