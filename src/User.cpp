@@ -8,6 +8,6 @@ void loop() {
         digitalWrite(PIN_LED1, HIGH);
         delay(700);
         digitalWrite(PIN_LED1, LOW);
-        delay(1000);
+        delay(2000);
     }
 }
